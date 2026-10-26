@@ -16,20 +16,20 @@ import img13 from "../assets/photos/photo-13.jpg";
 export const IMG = [img00, img01, img02, img03, img04, img05, img06, img07, img08, img09, img10, img11, img12, img13];
 
 export const PHOTOS = [
-  { src: IMG[0], emoji: "🎬", caption: "Movie date", bg: "#ffd6e8" },
-  { src: IMG[1], emoji: "🍿", caption: "Cuddles at the movies", bg: "#ffe5b4" },
-  { src: IMG[8], emoji: "🌿", caption: "Our little trip", bg: "#d4f0ff" },
-  { src: IMG[9], emoji: "☔", caption: "Adventure day", bg: "#e0d4ff" },
-  { src: IMG[11], emoji: "💞", caption: "My favourite place: next to you", bg: "#d8f5d0" },
-  { src: IMG[3], emoji: "💚", caption: "Pretty in green", bg: "#ffe0cc" },
+  { src: IMG[0], emoji: "🎬", caption: "A little piece of magic", bg: "#ffd6e8" },
+  { src: IMG[1], emoji: "🍿", caption: "Pretty without even trying", bg: "#ffe5b4" },
+  { src: IMG[8], emoji: "🌿", caption: "Beauty in every little moment", bg: "#d4f0ff" },
+  { src: IMG[9], emoji: "☔", caption: "A face full of stories", bg: "#e0d4ff" },
+  { src: IMG[11], emoji: "💞", caption: "Some smiles stay with you: next to you", bg: "#d8f5d0" },
+  { src: IMG[3], emoji: "💚", caption: "A little more lovely every day", bg: "#ffe0cc" },
   { src: IMG[2], emoji: "✨", caption: "That smile", bg: "#d4ffe9" },
-  { src: IMG[4], emoji: "🌸", caption: "Queen of my heart", bg: "#ffd9f0" },
-  { src: IMG[5], emoji: "😊", caption: "Sunshine", bg: "#ffe5b4" },
-  { src: IMG[6], emoji: "🌼", caption: "Golden hour", bg: "#d4f0ff" },
-  { src: IMG[7], emoji: "☀️", caption: "Effortlessly beautiful", bg: "#e0d4ff" },
+  { src: IMG[4], emoji: "🌸", caption: "My favourite kind of sunshine ", bg: "#ffd9f0" },
+  { src: IMG[5], emoji: "😊", caption: "Blooming in your own way", bg: "#ffe5b4" },
+  { src: IMG[6], emoji: "🌼", caption: "Simply, effortlessly your", bg: "#d4f0ff" },
+  { src: IMG[7], emoji: "☀️", caption: "A little too hard to forgetutiful", bg: "#e0d4ff" },
   { src: IMG[10], emoji: "💙", caption: "Always stunning", bg: "#d8f5d0" },
   { src: IMG[12], emoji: "🖤", caption: "Hair flip", bg: "#ffe0cc" },
-  { src: IMG[13], emoji: "💋", caption: "Smiling at me", bg: "#ffd6e8" },
+  { src: IMG[13], emoji: "💋", caption: "Main character energy", bg: "#ffd6e8" },
 ];
 
 export const BALLOONS = [
